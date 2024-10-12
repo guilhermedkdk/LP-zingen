@@ -1,7 +1,7 @@
-<h1 align="center"> Zingen page </h1>
+<h1 align="center"> Zingen Landing Page </h1>
 
 <p align= "center">
-Uma página de um produto fictício feito como forma de estudos do curso Fullstack da Rocketseat</p>
+Uma Landing Page de um produto fictício feito como forma de estudos do curso Fullstack da Rocketseat</p>
 
 <p align="center">
 <a href="https://guilhermedkdk.github.io/rocket-zingen-page/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A "Zingen Page" foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, apliquei conceitos de CSS avançado para desenvolver uma página responsiva. Trabalhei com media queries, adotei a abordagem mobile first e utilizei funções de CSS para garantir uma adaptação eficiente do layout em diferentes tamanhos de tela, consolidando os conhecimentos sobre responsividade.
+A Zingen Landing Page foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, apliquei conceitos de CSS avançado para desenvolver uma página responsiva. Trabalhei com media queries, adotei a abordagem mobile first e utilizei funções de CSS para garantir uma adaptação eficiente do layout em diferentes tamanhos de tela, consolidando os conhecimentos sobre responsividade.
 
 ## 📚 Aprendizados
 
