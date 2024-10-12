@@ -35,4 +35,4 @@ Nele pude consolidar os conhecimentos sobre:
 - Responsividade
 - Media Queries
 - Mobile First
-- CSS Functions
+- Funções
