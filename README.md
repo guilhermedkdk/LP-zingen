@@ -4,7 +4,7 @@
 Uma Landing Page de um produto fictício feito como forma de estudos do curso Fullstack da Rocketseat</p>
 
 <p align="center">
-<a href="https://guilhermedkdk.github.io/rocket-zingen-page/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://guilhermedkdk.github.io/LP-zingen/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
