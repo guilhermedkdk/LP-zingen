@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Zingen Landing Page foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, apliquei conceitos de CSS avançado para desenvolver uma página responsiva. Trabalhei com media queries, adotei a abordagem mobile first e utilizei funções de CSS para garantir uma adaptação eficiente do layout em diferentes tamanhos de tela, consolidando os conhecimentos sobre responsividade.
+A Zingen Landing Page foi um mini projeto do curso Fullstack da Rocketseat no módulo "HTML e CSS Avançado". Nele, apliquei conceitos de CSS avançado para desenvolver uma página responsiva. Trabalhei com media queries, adotei a abordagem mobile first e utilizei funções de CSS para garantir uma adaptação eficiente do layout em diferentes tamanhos de tela, consolidando os conhecimentos sobre responsividade.
 
 ## 📚 Aprendizados
 
-Este projeto foi feito dentro do curso de Fullstack no módulo "Avançando HTML e CSS" da Rocketseat.
+Este projeto foi feito dentro do curso de Fullstack no módulo "HTML e CSS Avançado" da Rocketseat.
 Nele pude consolidar os conhecimentos sobre:
 
 ### CSS
