@@ -40,29 +40,30 @@
 }
 
 html {
-  font-family: var(--ff-inter);
-  font-weight: var(--fw-base);
-  font-size: var(--fs-base);
-  line-height: 1.6;
-  color: var(--text-color-primary);
-
   overflow-x: hidden;
-
   scroll-behavior: smooth;
+
+  font-family: var(--ff-inter);
+  font-size: var(--fs-base);
+  font-weight: var(--fw-base);
+  line-height: 1.6;
+
+  color: var(--text-color-primary);
 }
 
 body {
-  background-color: var(--bg-color);
   overflow-x: hidden;
+  background-color: var(--bg-color);
 }
 
 h1,
 h2,
 h3 {
-  line-height: 1.2;
-  color: var(--text-color-primary);
   font-weight: var(--fw-bold);
+  line-height: 1.2;
   letter-spacing: -0.04em;
+
+  color: var(--text-color-primary);
 }
 
 h1 {
@@ -99,8 +100,8 @@ ul[role="list"] {
 }
 
 img {
-  max-width: 100%;
   display: inline-block;
+  max-width: 100%;
 }
 
 @media (width >= 1280px) {

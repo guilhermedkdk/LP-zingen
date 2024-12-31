@@ -1,6 +1,6 @@
 footer {
-  color: var(--text-color-secondary);
   font-weight: var(--fw-md);
+  color: var(--text-color-secondary);
 
   & .container {
     padding-inline: 3rem;
@@ -20,9 +20,10 @@ footer {
   }
 
   & .title {
+    text-transform: uppercase;
+
     font-size: 0.75rem;
     letter-spacing: 0.08em;
-    text-transform: uppercase;
     color: var(--brand-color-primary);
   }
 
